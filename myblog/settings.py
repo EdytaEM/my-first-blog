@@ -26,7 +26,7 @@ SECRET_KEY = 'zz^-af94^_i&=srmrjxi$!hq(f+q-ahnpt_j1fxdw*ijdzj*=h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["edytaem.pythonanywhere.com"]
 
 
 # Application definition
